@@ -1,3 +1,5 @@
+**NOTE:** This repository is a demo of the website originally published at www.ohiosuffragecentennial.com. To view the website, click https://hillaryfraley.github.io/ohsuffragecentennialsite/.
+
 # Ohio Suffrage Centennial
 
 This project is a [GitHub Pages](https://pages.github.com/)-hosted [Jekyll](https://jekyllrb.com/) website intended to help people plan, find, and spread the word about events related to Ohio's connections to the 19th amendment and women's right to vote.
